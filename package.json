@@ -1,0 +1,14 @@
+{
+  "name": "youtube-dl",
+  "version": "1.0.0",
+  "description": "youtube-dl docker image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "botkit": "^0.5.2"
+  }
+}
