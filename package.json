@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "botkit": "^0.5.2"
+  "devDependencies": {},
+  "dependencies": {
+    "botbuilder-adapter-slack": "^1.0.10",
+    "botkit": "^4.8.1"
   }
 }
