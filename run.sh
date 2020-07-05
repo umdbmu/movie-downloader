@@ -1,4 +1,4 @@
 #!/bin/bash
 
 npm install
-/usr/bin/nodejs index.js ${SLACK_TOKEN}
+/usr/bin/nodejs ClientSigningSecret=${ClientSigningSecret} BotToken=${BotToken} node index.js
